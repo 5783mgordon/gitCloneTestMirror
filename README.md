@@ -1,0 +1,2 @@
+# gitCloneTest
+Testing mirrors
